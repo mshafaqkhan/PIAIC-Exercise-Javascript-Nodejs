@@ -1,0 +1,11 @@
+var favorite_fruits=["banana","apple","mango"]
+if(favorite_fruits.includes("apple"))
+console.log("You really like apple!")
+if(favorite_fruits.includes("stawberry"))
+console.log("You really like stawberry!")
+if(favorite_fruits.includes("blueberry"))
+console.log("You really like bluebery!")
+if(favorite_fruits.includes("mango"))
+console.log("You really like mango!")
+if(favorite_fruits.includes("banana"))
+console.log("You really like banana!")
